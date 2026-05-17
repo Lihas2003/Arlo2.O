@@ -1,0 +1,37 @@
+{
+  "session_id": "2f168334-3351-4719-9c90-02ae851b6f42",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, SAHIL KUND. How can I assist you today?"
+    },
+    {
+      "role": "user",
+      "content": "hello tell me what is this"
+    },
+    {
+      "role": "assistant",
+      "content": "This is an image of a man wearing a white tank top, sitting in a room with white walls. The man has dark skin and short black hair, and he appears to be looking directly at the camera."
+    },
+    {
+      "role": "user",
+      "content": "what is the"
+    },
+    {
+      "role": "assistant",
+      "content": "The bottle. \nThe bottle is a translucent blue color and appears to be made of plastic. It has a screw-on cap and a textured surface."
+    },
+    {
+      "role": "user",
+      "content": "what is this"
+    },
+    {
+      "role": "assistant",
+      "content": "This appears to be a black, folded tablet or e-reader case. The case is being held by a person's left hand, which has a silver bracelet on the wrist."
+    }
+  ]
+}

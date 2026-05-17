@@ -1,0 +1,21 @@
+{
+  "session_id": "9041bc92-fccb-4484-adb3-872384fb4575",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What can you do?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can answer questions, open apps or websites, generate images, play music, write content, and search for information, SAHIL. I'll do my best to assist you with any tasks you need help with."
+    },
+    {
+      "role": "user",
+      "content": "good"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm here to help you with anything you need, SAHIL."
+    }
+  ]
+}

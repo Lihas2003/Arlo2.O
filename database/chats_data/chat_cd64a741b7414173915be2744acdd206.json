@@ -1,0 +1,21 @@
+{
+  "session_id": "cd64a741-b741-4173-915b-e2744acdd206",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what's my name"
+    },
+    {
+      "role": "assistant",
+      "content": "Your name is Sahil."
+    },
+    {
+      "role": "user",
+      "content": "remember my favourite Manga is greatest state developer"
+    },
+    {
+      "role": "assistant",
+      "content": "I've noted that your favorite Manga is \"The Greatest Demon Lord is Reborn as a Typical Nobody\" is not it, instead it is \"The Greatest Estate Developer\"."
+    }
+  ]
+}
